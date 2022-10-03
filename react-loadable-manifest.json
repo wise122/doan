@@ -1,0 +1,54 @@
+{
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./fortmatic-0568efcb.js": {
+    "id": "PPqH",
+    "files": [
+      "static/chunks/31.e9b9d734e733a355c182.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./index-1d2649b8.js": {
+    "id": "THBx",
+    "files": [
+      "static/chunks/3188ec84.375cea5d7dd0a4e65e77.js",
+      "static/chunks/commons.0dba5d0f8f41cd3e378c.js",
+      "static/chunks/2c5c028e48368088754991a1546139cf965b6edf.8220da9ce83ccd9d27f3.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./index-a004146a.js": {
+    "id": "73ZI",
+    "files": [
+      "static/chunks/b81c9748.5dc625d237133ce9b96c.js",
+      "static/chunks/commons.0dba5d0f8f41cd3e378c.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./index-b6b58529.js": {
+    "id": "zGlL",
+    "files": [
+      "static/chunks/75edcd9e.69cd8757c694180f8c88.js",
+      "static/chunks/commons.0dba5d0f8f41cd3e378c.js",
+      "static/chunks/2c5c028e48368088754991a1546139cf965b6edf.8220da9ce83ccd9d27f3.js",
+      "static/chunks/29.e67dc50ede126e290c88.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./index-c6f22609.js": {
+    "id": "lCoH",
+    "files": [
+      "static/chunks/75edcd9e.69cd8757c694180f8c88.js",
+      "static/chunks/12bf5ca9.5cf09c1374a8593f89c6.js",
+      "static/chunks/d85a0b2f.c3cb1574907339f6b3fa.js",
+      "static/chunks/commons.0dba5d0f8f41cd3e378c.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> ./torus.cjs-c0df7a64.js": {
+    "id": "Ze4v",
+    "files": [
+      "static/chunks/190643b2.d76cfb6142da47132f20.js",
+      "static/chunks/32.d423fe1410fc9f0cbafc.js"
+    ]
+  },
+  "..\\node_modules\\use-wallet\\dist\\index-d3bd4678.js -> squarelink": {
+    "id": "j8LT",
+    "files": [
+      "static/chunks/30.c41cfe6094476f9b12bf.js"
+    ]
+  }
+}
