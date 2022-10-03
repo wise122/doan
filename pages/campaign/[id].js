@@ -212,7 +212,7 @@ export default function CampaignSingle({
                 href={`https://testnet.bscscan.com/address/${id}`}
                 isExternal
               >
-                View on BNB Etherscan <ExternalLinkIcon mx="2px" />
+                View on BNB Explorer <ExternalLinkIcon mx="2px" />
               </Link>
               <Box mx={"auto"} w={"full"}>
                 <SimpleGrid columns={{ base: 1 }} spacing={{ base: 5 }}>
@@ -300,7 +300,7 @@ export default function CampaignSingle({
                         fontWeight={"bold"}
                       >
                         {" "}
-                        ETH
+                        BNB
                       </Text>
                       <Text
                         as="span"

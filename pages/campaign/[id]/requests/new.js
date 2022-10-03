@@ -128,7 +128,7 @@ export default function NewRequest() {
 
                 <FormControl id="recipient">
                   <FormLabel htmlFor="recipient">
-                    Recipient Ethereum Wallet Address
+                    Recipient BNB Wallet Address
                   </FormLabel>
                   <Input
                     name="recipient"
